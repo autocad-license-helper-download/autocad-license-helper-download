@@ -1,0 +1,1 @@
+# autocad-license-helper-download
